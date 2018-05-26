@@ -1,0 +1,238 @@
+﻿빌드 시작: 2014-06-21 오전 10:42:01
+     1>2 노드의 "C:\Users\Administrator\Desktop\Korea Compile\Korea Compile.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Korea Compile.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp / 
+     1>cl : 명령줄 warning D9002: 알 수 없는 '/' 옵션을 무시합니다.
+         Main.cpp
+     1>c:\users\administrator\desktop\korea compile\main.h(4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\data 구하기.h(45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\data 구하기.h(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\data 구하기.h(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\data 구하기.h(98): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(16): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(30): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(93): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\mainmanu.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\var.h(8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\var.h(10): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\korea compile\var.h(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\var.h(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(21): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(105): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(112): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\function.h(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(96): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 'access' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(103): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(108): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(109): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(252) : 'strupr' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(112): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(252) : 'strupr' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(155): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(160): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(169): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(179): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(180): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(191): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(195): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(201): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : 'gets' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(202): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(220): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(223): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(225): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(246): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(253): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(255): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(259): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(260): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(266): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 'access' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(268): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(286): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(291): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(306): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(309): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(315): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(316): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(335): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(336): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(339): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(349): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(350): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(368): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(369): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(384): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(389): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(405): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(413): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(414): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(431): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(432): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(436): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(444): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(449): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(450): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(459): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(470): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(505): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 'access' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(507): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(525): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(531): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(538): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(546): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(555): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(560): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(567): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(575): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(584): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(590): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(593): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(606): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(614): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(624): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\administrator\desktop\korea compile\main.cpp(631): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\Korea Compile\Debug\Korea Compile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Korea Compile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\Korea Compile\Debug\Korea Compile.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\Korea Compile\Debug\Korea Compile.lib" /MACHINE:X86 Debug\Main.obj
+         Korea Compile.vcxproj -> C:\Users\Administrator\Desktop\Korea Compile\Debug\Korea Compile.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\Administrator\Desktop\Korea Compile\Debug\Korea Compile.exe.manifest" /manifest "Debug\Korea Compile.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         "Debug\Korea Compile.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Korea Compile.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Administrator\Desktop\Korea Compile\Korea Compile.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.38

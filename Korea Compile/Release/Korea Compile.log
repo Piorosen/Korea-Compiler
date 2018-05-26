@@ -1,0 +1,35 @@
+﻿  Main.cpp
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.h(4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\mainmanu.h(9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\mainmanu.h(16): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\mainmanu.h(30): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\mainmanu.h(93): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\var.h(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(62): warning C4101: 'curr' :참조되지 않은 지역 변수입니다.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(63): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(208): error C3861: 'gets': 식별자를 찾을 수 없습니다.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(103): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(441): note: 'access' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(117): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(589): note: 'strupr' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(120): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(589): note: 'strupr' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(150): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(441): note: 'access' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(186): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(245): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(256): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(323): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(441): note: 'access' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(363): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+z:\hdd1\기존자료들\새 폴더\프로그래밍\프로젝트\sln\korea compile\main.cpp(618): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(441): note: 'access' 선언을 참조하십시오.
